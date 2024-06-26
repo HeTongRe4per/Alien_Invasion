@@ -3,7 +3,9 @@
 
 本项目是一个简单的飞机大战游戏，使用Python和Pygame开发。
 
-## 安装
+##使用
+
+### 源码安装
 
 确保已经安装了Python和Pygame。运行以下命令安装依赖项：
 
@@ -19,7 +21,7 @@ git clone https://github.com/HeTongRe4per/Alien_Invasion.git
 pip install pygame
 ```
 
-## 如何运行
+### 源码运行
 
 1. 进入项目目录。
 
@@ -32,6 +34,11 @@ cd Alien_Invasion
 ```commandline
 python main.py
 ```
+
+### 直接运行
+
+- 前往本仓库`[Release](https://github.com/HeTongRe4per/Alien_Invasion/releases)`下载`.zip`文件
+- 解压缩，运行文件夹中`main.exe`
 
 ## 游戏截图
 
