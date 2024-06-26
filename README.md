@@ -35,10 +35,10 @@ python main.py
 
 ## 游戏截图
 
-<div style="display: flex;">
-    <img src="https://github.com/HeTongRe4per/imgurl/blob/main/Alien_Invasion/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-06-26%20142958.png?raw=true" style="width: 50%; height: auto;">
-    <img src="https://github.com/HeTongRe4per/imgurl/blob/main/Alien_Invasion/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-06-26%20143121.png?raw=true" style="width: 50%; height: auto;">
-</div>
+<p float="left">
+    <img src="https://github.com/HeTongRe4per/imgurl/blob/main/Alien_Invasion/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-06-26%20142958.png?raw=true" width="400" />
+    <img src="https://github.com/HeTongRe4per/imgurl/blob/main/Alien_Invasion/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-06-26%20143121.png?raw=true" width="400" /> 
+</p>
 
 ## 操作方式
 
