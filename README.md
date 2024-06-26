@@ -37,7 +37,7 @@ python main.py
 
 ### 直接运行
 
-- 前往本仓库`[Release](https://github.com/HeTongRe4per/Alien_Invasion/releases)`下载`.zip`文件
+- 前往本仓库[`Release`](https://github.com/HeTongRe4per/Alien_Invasion/releases)下载`.zip`文件
 - 解压缩，运行文件夹中`main.exe`
 
 ## 游戏截图
